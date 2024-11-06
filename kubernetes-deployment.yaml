@@ -14,7 +14,7 @@ spec:
  spec:
  containers:
  - name: my-python-app
- image: username/my-python-app:${v1}
+ image: matej3/my-python-app:${v1}
  ports:
  - containerPort: 80
  apiVersion: v1
